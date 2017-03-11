@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Dagger2Demo</string>
-    <string name="open_otherActivity">Open OtherActivity</string>
-    <string name="open_a">打开AActivity</string>
-</resources>
